@@ -17,8 +17,6 @@ Welcome to the *ESP Bluetooth Movement Controller! This project seamlessly integ
 ## 🛠 Getting Started
 
 ### Requirements
-- *Hardware*:
-# Components List
 
 1. *ESP32 Microcontroller*
    - *Description*: The ESP32 serves as the brain of your car, handling Bluetooth communication with the Android app and processing control signals for the motors.  
